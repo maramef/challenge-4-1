@@ -1,0 +1,63 @@
+/* body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.titre {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    padding: 40px;
+    max-width: 500px;
+    width: 100%;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+.valeurs {
+    background: #f8f9fa;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.valeurs p {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+.matrice {
+    font-size: 20px;
+    font-weight: bold;
+    color: #667eea;
+}
+
+.card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+    
+}
+
+.label {
+    font-size: 14px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.valeur {
+    font-size: 32px;
+    font-weight: bold;
+} */
